@@ -3,8 +3,8 @@ package com.rays.basic;
 public class Math_Class {
 	public static void main(String[] args) {
 		System.out.println("Mathematics Functions");
-		System.out.println("Max 2,5-" + Math.max(2, 5));
-		System.out.println("Min 2,5-" + Math.min(2, 5));
+		System.out.println("Max 2,5=" + Math.max(2, 5));
+		System.out.println("Min 2,5=" + Math.min(2, 5));
 		System.out.println("Absolute 3.7-" + Math.abs(3.7));
 		System.out.println("Exp 10-" + Math.exp(10));
 		System.out.println("Random Number"+Math.random());

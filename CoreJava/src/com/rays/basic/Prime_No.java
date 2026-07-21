@@ -7,7 +7,7 @@ public class Prime_No {
 			if (n % i == 0) {
 				System.out.println("Prime no.");
 			} else {
-				System.out.println(" Not Prime no."+);
+				System.out.println(" Not Prime no.");
 			}
 		}
 	}
