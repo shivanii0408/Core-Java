@@ -21,7 +21,7 @@ public class Shape {
 		this.borderWidth = borderWidth;
 	}
 	public void area () {
-		System.out.println("area from shape class");
+		System.out.println("Area from shape class");
 	}
 
 }

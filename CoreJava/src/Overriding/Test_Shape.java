@@ -7,7 +7,7 @@ public class Test_Shape {
 
 		Circle c = new Circle();
 
-		c.setColor("red");
+		c.setColor("Blue");
 		c.setBorderWidth(2);
 		c.setRadius(2);
 		
