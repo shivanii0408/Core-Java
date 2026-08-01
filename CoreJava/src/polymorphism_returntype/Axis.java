@@ -6,6 +6,7 @@ public class Axis extends Bank {
 	public String getName() {
 		return "Axis Bank";
 	}
+
 	@Override
 	public double interestRate() {
 		return 11.24;

@@ -15,7 +15,7 @@ public static void homeLoanEnquiry(Bank[] banks) {
 	for(int i=0; i<banks.length; i++) {
 		System.out.println(banks[i].getName());
 		System.out.println(banks[i].interestRate());
-		System.out.println("---------");
+		System.out.println("---------------");
 	}
 }
 }
