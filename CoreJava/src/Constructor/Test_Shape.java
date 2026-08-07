@@ -6,7 +6,8 @@ public class Test_Shape {
 
 		Shape s1 = new Shape();
 
-		Shape s2 = new Shape(20, "pink");
+		Shape s2 = new Shape(20, "Blue"
+				+ "");
 
 	}
 }

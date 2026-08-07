@@ -13,7 +13,7 @@ public class Shape {
 		this.color = color;
 		this.borderWidth = borderWidth;
 		System.out.println(this.borderWidth);
-		System.out.println(this.color);
+	System.out.println(this.color);
 
 	}
 
